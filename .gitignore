@@ -1,0 +1,8 @@
+kagotsurube.mak
+package-**.json
+node_modules/
+config.json
+protos/
+build/
+.env/
+.env
